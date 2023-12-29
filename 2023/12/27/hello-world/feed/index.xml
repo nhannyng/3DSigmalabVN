@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Hello world!	</title>
-	<atom:link href="3dsigmalab.com/2023/12/27/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>3dsigmalab.com/2023/12/27/hello-world/</link>
+	<atom:link href="https://nhannyng.github.io/3dsigmalabVN/2023/12/27/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhannyng.github.io/3dsigmalabVN/2023/12/27/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 27 Dec 2023 07:58:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: A WordPress Commenter		</title>
-		<link>3dsigmalab.com/2023/12/27/hello-world/#comment-1</link>
+		<link>https://nhannyng.github.io/3dsigmalabVN/2023/12/27/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 27 Dec 2023 07:58:36 +0000</pubDate>
-		<guid isPermaLink="false">3dsigmalab.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://nhannyng.github.io/3dsigmalabVN/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
